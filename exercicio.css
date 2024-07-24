@@ -1,0 +1,29 @@
+
+
+
+body{
+    font-family: sans-serif;
+    align-content: center;
+    
+}
+
+div {
+
+    align-content: center;
+    width: 350px;
+    height: 350px;
+    background-color: rgb(61, 61, 153);
+    
+
+}
+
+form{
+    text-align: center;
+    
+}
+
+input{
+    border-radius: 10px;
+    border: 0;
+}
+
